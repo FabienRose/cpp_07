@@ -9,7 +9,7 @@ CPL=c++
 CPL_FLAGS=-std=c++98 -Wall -Wextra -Werror
 
 #----- Program informations -----
-PNAME=whatever
+PNAME=array
 
 #----- RM Command -----
 RM_FLAGS=-f
